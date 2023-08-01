@@ -1,0 +1,12 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.traking-img img {
+    width: 100%;
+    object-fit: cover;
+    border: 5px solid grey;
+    border-radius: 10px;
+}

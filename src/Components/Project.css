@@ -1,0 +1,29 @@
+.project-section {
+    text-align: center;
+    
+
+}
+
+.project-section img {
+    width: 410px;
+    height: auto;
+    border-radius: 5px;
+    margin-bottom: 3rem;
+    border: 5px solid gray;
+}
+
+.head-section {
+    font-weight: 700;
+    font-size: 20px;
+    color: #ed1980;
+    margin-top: 42rem;
+}
+
+.sub-head-section {
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.head-para {
+    margin-top: 0px;
+}

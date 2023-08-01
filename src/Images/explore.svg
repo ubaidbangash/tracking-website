@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="189.419" height="55.854" viewBox="0 0 189.419 55.854">
+    <g data-name="Group 1834" transform="translate(-616.676 -1415)">
+        <rect data-name="Rectangle 77" width="189.419" height="55.854" rx="16" transform="translate(616.676 1415)" style="fill:#34419b"/>
+        <text data-name="Click Explore" transform="translate(692.532 1449.427)" style="font-size:18px;font-family:Poppins-Medium,Poppins;font-weight:500;fill:#fff"><tspan x="-56.871" y="0">Click Explore</tspan></text>
+        <g data-name="arrow_right_alt-24px (1)">
+            <path data-name="Path 4" d="M0 0h54.255v54.255H0z" style="fill:none" transform="translate(749.605 1415.799)"/>
+            <path data-name="Path 5" d="M31.15 14.782H4V19.3h27.15v6.782l9.02-9.043L31.15 8z" transform="translate(754.648 1425.884)" style="fill:#fff"/>
+        </g>
+    </g>
+</svg>

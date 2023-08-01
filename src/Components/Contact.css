@@ -1,0 +1,53 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.form-text {
+    width: 500px;
+    height: 400px;
+   
+    margin: 10% auto 0 auto;
+    
+    border: 2px solid black;
+}
+
+.name-area {
+    margin-left: 6.5rem;
+
+}
+
+.name-area input {
+    
+    border: 1px solid black;
+    margin-left: 1rem;
+    width: 55%;
+    height: 2rem;
+}
+
+.name-area label {
+    margin-top: 8rem;
+    color: white;
+}
+
+.email-area {
+    margin-left: 6.7rem;
+    color: white;
+}
+
+.email-area input {
+  
+    margin-left: 1.3rem;
+    border: 1px solid black;
+    width: 55%;
+    height: 2rem;
+}
+
+.button-area input {
+    margin-left: 13rem;
+    width: 85px;
+    border-radius: 0.5rem;
+    border: 1px solid black;
+    background-color: black;
+    color: white;
+}
