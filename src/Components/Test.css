@@ -1,210 +1,202 @@
 .blue-text img {
-    text-align: start;
-    height: 306px;
-    color: white;
-    width: 100%;
-
-
+  text-align: start;
+  height: 306px;
+  color: white;
+  width: 100%;
 }
 
 .test-main {
-    margin-top: 5rem;
-    display: flex;
-    justify-content: center;
+  margin-top: 5rem;
+  display: flex;
+  justify-content: center;
 }
 
 .career-card {
-    background-color: #333697;
-    padding: 20px;
-    border-radius: 16px;
-    color: white;
-    width: 70%;
-    z-index: 1;
+  background-color: #333697;
+  padding: 20px;
+  border-radius: 16px;
+  color: white;
+  width: 70%;
+  z-index: 1;
 }
 
 .career-card-title {
-    font-size: 24px;
-    font-weight: 500;
+  font-size: 24px;
+  font-weight: 500;
 }
 
 .disc {
-    font-size: 18px;
+  font-size: 18px;
 }
 
 .para {
-    font-size: 10px;
-    margin-top: 5px;
+  font-size: 10px;
+  margin-top: 5px;
 }
 
 .career-side {
-    background: white;
-    color: black;
-    border-radius: 50px 10px 50px 10px;
-    width: 200px;
-    height: 85px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 8px;
+  background: white;
+  color: black;
+  border-radius: 50px 10px 50px 10px;
+  width: 200px;
+  height: 85px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 8px;
 }
 
 .num {
-    color: #333697;
-    font-size: medium;
-    font-weight: 600;
+  color: #333697;
+  font-size: medium;
+  font-weight: 600;
 }
 
 .projects-complete {
-    color: #333697;
-    font-size: medium;
-    font-weight: 500;
+  color: #333697;
+  font-size: medium;
+  font-weight: 500;
 }
 
 .col-two {
-    display: flex;
-    justify-content: end;
+  display: flex;
+  justify-content: end;
 }
 
-
 @media only screen and (max-width: 1440px) {
-    .career-card-title {
-        font-size: 24px;
-        font-weight: 500;
-    }
+  .career-card-title {
+    font-size: 24px;
+    font-weight: 500;
+  }
 
-    .disc {
-        font-size: 18px;
-    }
+  .disc {
+    font-size: 18px;
+  }
 
-    .projects-complete {
-        color: #333697;
-        font-size: medium;
-        font-weight: 500;
-    }
+  .projects-complete {
+    color: #333697;
+    font-size: medium;
+    font-weight: 500;
+  }
 
-    .num {
-        color: #333697;
-        font-size: medium;
-        font-weight: 600;
-    }
+  .num {
+    color: #333697;
+    font-size: medium;
+    font-weight: 600;
+  }
 }
 
 @media only screen and (max-width: 1024px) {
+  .career-card-title {
+    font-size: 22px;
+    font-weight: 500;
+  }
 
-    .career-card-title {
-        font-size: 22px;
-        font-weight: 500;
-    }
+  .disc {
+    font-size: 16px;
+  }
 
-    .disc {
-        font-size: 16px;
-    }
+  .projects-complete {
+    color: #333697;
+    font-size: medium;
+    font-weight: 500;
+  }
 
-    .projects-complete {
-        color: #333697;
-        font-size: medium;
-        font-weight: 500;
-    }
-
-    .num {
-        color: #333697;
-        font-size: medium;
-        font-weight: 600;
-    }
+  .num {
+    color: #333697;
+    font-size: medium;
+    font-weight: 600;
+  }
 }
 
-
 @media only screen and (max-width: 768px) {
-    .career-card-title {
-        font-size: 20px;
-        font-weight: 500;
-    }
+  .career-card-title {
+    font-size: 20px;
+    font-weight: 500;
+  }
 
-    .disc {
-        font-size: 14px;
-    }
+  .disc {
+    font-size: 14px;
+  }
 
-    .projects-complete {
-        color: #333697;
-        font-size: medium;
-        font-weight: 500;
-    }
+  .projects-complete {
+    color: #333697;
+    font-size: medium;
+    font-weight: 500;
+  }
 
-    .num {
-        color: #333697;
-        font-size: medium;
-        font-weight: 600;
-    }
+  .num {
+    color: #333697;
+    font-size: medium;
+    font-weight: 600;
+  }
 }
 
 @media only screen and (max-width: 425px) {
-    .career-card-title {
-        font-size: 15px;
-        font-weight: 500;
-    }
+  .career-card-title {
+    font-size: 15px;
+    font-weight: 500;
+  }
 
-    .disc {
-        font-size: 12px;
-    }
+  .disc {
+    font-size: 12px;
+  }
 
-    .projects-complete {
-        color: #333697;
-        font-size: 0.7rem;
-        font-weight: 500;
-    }
+  .projects-complete {
+    color: #333697;
+    font-size: 0.7rem;
+    font-weight: 500;
+  }
 
-    .num {
-        color: #333697;
-        font-size: .8rem;
-        font-weight: 600;
-    }
+  .num {
+    color: #333697;
+    font-size: 0.8rem;
+    font-weight: 600;
+  }
 }
 
-
 @media only screen and (max-width: 375px) {
+  .career-card-title {
+    font-size: 15px;
+    font-weight: 500;
+  }
 
-    .career-card-title {
-        font-size: 15px;
-        font-weight: 500;
-    }
+  .disc {
+    font-size: 12px;
+  }
 
-    .disc {
-        font-size: 12px;
-    }
+  .projects-complete {
+    color: #333697;
+    font-size: 0.7rem;
+    font-weight: 500;
+  }
 
-    .projects-complete {
-        color: #333697;
-        font-size: 0.7rem;
-        font-weight: 500;
-    }
-
-    .num {
-        color: #333697;
-        font-size: .8rem;
-        font-weight: 600;
-    }
+  .num {
+    color: #333697;
+    font-size: 0.8rem;
+    font-weight: 600;
+  }
 }
 
 @media only screen and (max-width: 320px) {
+  .career-card-title {
+    font-size: 15px;
+    font-weight: 500;
+  }
 
-    .career-card-title {
-        font-size: 15px;
-        font-weight: 500;
-    }
+  .disc {
+    font-size: 12px;
+  }
 
-    .disc {
-        font-size: 12px;
-    }
+  .projects-complete {
+    color: #333697;
+    font-size: 0.7rem;
+    font-weight: 500;
+  }
 
-    .projects-complete {
-        color: #333697;
-        font-size: 0.7rem;
-        font-weight: 500;
-    }
-
-    .num {
-        color: #333697;
-        font-size: .8rem;
-        font-weight: 600;
-    }
+  .num {
+    color: #333697;
+    font-size: 0.8rem;
+    font-weight: 600;
+  }
 }
